@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  background-color:black;
+}
+
+.moviesearch{
+  position:absolute;
+  left:675px;
+  top:5px;
+}
+
+.App{
+  display:flex;
+  flex-wrap:wrap;
+}
